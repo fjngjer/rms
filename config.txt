@@ -1,0 +1,6 @@
+owner=252488488065302528
+prefix=Ro
+game=Break | play
+stayinchannel=true
+songinstatus=false
+token=NTkxMTU5ODczMzAwMDcwNDMw.XQsuww.hs29bgf_szb0R0oUoCoURJw9_9o
